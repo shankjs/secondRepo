@@ -1,1 +1,2 @@
 This is file2.txt written on local
+This is added on local
