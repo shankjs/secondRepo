@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is a file to mess up with later
 new line in file4
+=======
+this replaces the messed up text
+>>>>>>> newfeature
